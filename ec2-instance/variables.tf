@@ -21,5 +21,5 @@ variable "subnet_id" {
 }
 
 variable "name" {
-  default = "RNS"
+  default = "MRS"
 }
