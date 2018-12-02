@@ -12,7 +12,7 @@
 
   Clone the Project using the following command
 
-      $ git clone https://github.com/venkat09docs/terraform.git
+      $ git clone https://github.com/sidsingh27/terraform-ansible.git
 
 Prerequisites:
 
