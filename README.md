@@ -25,6 +25,8 @@ Prerequisites:
     2 - Run the following script to set up the Environment variables
     
         $ ./terraform/ansible/setAwsEnv.sh
+        
+    3 - Create a keypain in AWS using the name 'msrkey'
 
 Step1: Create two EC2 Instances in AWS Cloud using Terraform
 
